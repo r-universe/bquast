@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "decompr"]
+	path = decompr
+	url = https://github.com/bquast/decompr
+	shallow = true
+	registered = true
+[submodule "diagonals"]
+	path = diagonals
+	url = https://github.com/bquast/diagonals
+	shallow = true
+	registered = true
+[submodule "gvc"]
+	path = gvc
+	url = https://github.com/bquast/gvc
+	shallow = true
+	registered = true
+[submodule "rddtools"]
+	path = rddtools
+	url = https://github.com/bquast/rddtools
+	shallow = true
+	registered = true
+[submodule "rnn"]
+	path = rnn
+	url = https://github.com/bquast/rnn
+	shallow = true
+	registered = true
