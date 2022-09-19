@@ -1,13 +1,5 @@
 [
   {
-    "package": "decompr",
-    "oncran": true
-  },
-  {
-    "package": "diagonals",
-    "oncran": true
-  },
-  {
     "package": "gvc",
     "oncran": true
   },
