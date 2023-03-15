@@ -1,5 +1,13 @@
 [
   {
+    "package": "attention",
+    "oncran": true
+  },
+  {
+    "package": "datasets.load",
+    "oncran": true
+  },
+  {
     "package": "decompr",
     "oncran": true
   },
@@ -12,11 +20,27 @@
     "oncran": true
   },
   {
+    "package": "HEtools",
+    "oncran": true
+  },
+  {
+    "package": "HomomorphicEncryption",
+    "oncran": true
+  },
+  {
+    "package": "learNN",
+    "oncran": true
+  },
+  {
     "package": "rddtools",
     "oncran": true
   },
   {
     "package": "rnn",
+    "oncran": true
+  },
+  {
+    "package": "sigmoid",
     "oncran": true
   }
 ]
