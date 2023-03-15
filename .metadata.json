@@ -1,6 +1,10 @@
 [
   {
-    "package": "decompr",
+    "package": "rddtools",
+    "oncran": true
+  },
+  {
+    "package": "rnn",
     "oncran": true
   },
   {
@@ -8,15 +12,11 @@
     "oncran": true
   },
   {
+    "package": "decompr",
+    "oncran": true
+  },
+  {
     "package": "gvc",
-    "oncran": true
-  },
-  {
-    "package": "rddtools",
-    "oncran": true
-  },
-  {
-    "package": "rnn",
     "oncran": true
   }
 ]
