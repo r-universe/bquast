@@ -58,3 +58,8 @@
 	url = https://github.com/bquast/sigmoid
 	shallow = true
 	registered = true
+[submodule "transformer"]
+	path = transformer
+	url = https://github.com/bquast/transformer
+	shallow = true
+	registered = true
