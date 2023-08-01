@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "HEtools"]
+	path = HEtools
+	url = https://github.com/bquast/hetools
+[submodule "HomomorphicEncryption"]
+	path = HomomorphicEncryption
+	url = https://github.com/bquast/homomorphicencryption
 [submodule "attention"]
 	path = attention
 	url = https://github.com/bquast/attention
@@ -17,12 +23,6 @@
 [submodule "gvc"]
 	path = gvc
 	url = https://github.com/bquast/gvc
-[submodule "HEtools"]
-	path = HEtools
-	url = https://github.com/bquast/hetools
-[submodule "HomomorphicEncryption"]
-	path = HomomorphicEncryption
-	url = https://github.com/bquast/homomorphicencryption
 [submodule "learNN"]
 	path = learNN
 	url = https://github.com/bquast/learnn
