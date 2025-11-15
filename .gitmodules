@@ -23,6 +23,9 @@
 [submodule "gvc"]
 	path = gvc
 	url = https://github.com/bquast/gvc
+[submodule "locpol"]
+	path = locpol
+	url = https://github.com/bquast/locpol
 [submodule "rddtools"]
 	path = rddtools
 	url = https://github.com/bquast/rddtools
